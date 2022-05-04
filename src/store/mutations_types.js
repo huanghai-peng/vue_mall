@@ -1,0 +1,6 @@
+export const ADDSHOPCOUNT = 'addShopCount'
+export const ADDSHOPCART = 'addShopCart'
+export const ADDCARTS = 'addCarts'
+export const UPDATECHECKED = 'updateChecked'
+export const UPDATEADDSHOPCOUNT = 'updateAddShopCount'
+export const UPDATEDECREASESHOPCOUNT = 'updateDecreaseShopCount'
